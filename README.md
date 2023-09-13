@@ -26,3 +26,11 @@ No decorrer deste projeto, foram empregadas as seguintes tecnologias e programas
 -Microsoft Excel
 
 Essas tecnologias desempenharam papéis cruciais na elaboração de painéis interativos e na análise de dados relacionados ao desligamento de funcionários na organização de marketing. Embora todas as tecnologias mencionadas sejam pertinentes para a análise de dados em geral, o Tableau emerge como a principal ferramenta utilizada neste projeto específico.
+
+
+#Observações e Conclusões
+Algumas das observações e considerações incluem:
+
+A falta de reconhecimento é uma razão significativa para resultado, mesmo com baixo impacto percebido.
+Progressão de carreira e tipo de trabalho têm alto impacto e quantidade de resultados.
+A realocação apresenta alto impacto, indicando que a flexibilidade pode ser crucial.
